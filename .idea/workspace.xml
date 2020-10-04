@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.com in app">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -144,6 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit.com in app" />
       </list>
     </recent_temporary>
@@ -166,7 +183,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601840395753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="called start activity in onOptionsMEnu">
+      <created>1601840486262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601840486262</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create map intent">
+      <created>1601841155405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601841155405</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create map intent again">
+      <created>1601841660955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601841660955</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +222,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create info intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="create info intent" />
+    <MESSAGE value="called start activity in onOptionsMEnu" />
+    <MESSAGE value="create map intent" />
+    <MESSAGE value="create map intent again" />
+    <option name="LAST_COMMIT_MESSAGE" value="create map intent again" />
   </component>
 </project>
